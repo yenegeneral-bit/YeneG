@@ -1,0 +1,26 @@
+# Yene General LLC (YeneG)
+
+> Yene General LLC, also known as YeneG, is a general store selling general merchandise.
+> Tagline: Quality Products For A Better Tomorrow.
+
+## Store
+
+- Name: Yene General LLC
+- Also known as: YeneG, YG
+- Type: General store
+- Products: General merchandise, including groceries, home & kitchen, clothing, beauty, cleaning, and electronics
+
+## Departments
+
+- Groceries
+- Home & Kitchen
+- Clothing
+- Beauty
+- Cleaning
+- Electronics
+
+## Notes
+
+- No hours, address, or prices are listed on the landing page yet.
+- The landing page is the front page for the YeneG shop, leading into the store.
+- The full shopping website is planned for later.
